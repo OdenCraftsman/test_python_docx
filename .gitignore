@@ -1,2 +1,7 @@
 # env
 env
+
+# test_output dir
+test_output/**.doc
+test_output/**.docx
+test_output/**.pdf
