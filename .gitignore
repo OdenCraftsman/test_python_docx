@@ -1,5 +1,6 @@
 # env
-env
+env/**
+!env/origin.pth
 
 # test_output dir
 test_output/**.doc
