@@ -1,6 +1,7 @@
 # env
 env/**
 !env/origin.pth
+__pycache__
 
 # test_output dir
 test_output/**.doc
