@@ -33,7 +33,7 @@ if __name__ == "__main__":
     table.add_column(Mm(20))
 
     for i in range(5):
-        table.add_row()
+        table.add_row().height = Mm(8)
     for cell in table.rows[0].cells:
         set_cell_background_color(cell, "C"*6)
 
